@@ -1,0 +1,19 @@
+{
+  "name": "herokudemo",
+  "version": "22.13.1",
+  "description": "Simple Web App",
+  "main": "heroku.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/digitallyyour/intro-to-node.git"
+  },
+  "author": "Sushant",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/digitallyyour/intro-to-node/issues"
+  },
+  "homepage": "https://github.com/digitallyyour/intro-to-node#readme"
+}

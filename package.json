@@ -1,0 +1,15 @@
+{
+  "name": "nodejspractice",
+  "version": "22.13.1",
+  "description": "Simple Web App",
+  "main": "hello.js",
+  "script": {
+    "start": "node hello.js",
+    "test":"echo \"Error: no test specified\" && exit 1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sushant",
+  "license": "ISC"
+}

@@ -5,8 +5,6 @@ var url = require('url');
 
 http.createServer(function(req, res){
     var q = url.parse(req.url, true)
-    //  console.log(q)
-    // console.log('Here is the path name of URL : '+q.pathname)
     var fileName = "."+q.pathname;
     if (fileName == './'){
         fileName = './index2.html'
